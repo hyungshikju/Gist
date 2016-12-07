@@ -2,7 +2,7 @@
 #include <string> 
 #include <iostream> 
 
- 
+//hyungshik modify 2016.12.07 
 using namespace std; 
 int main(int argc, char **argv) { 	  
     diff_match_patch<wstring> dmp; 
