@@ -3,7 +3,7 @@
 #include <iostream> 
 
 //hyungshik modify 2016.12.07 
-//hyungshik modify 2016.12.08
+//hyungshik modify 2016.12.08-issue add
 using namespace std; 
 int main(int argc, char **argv) { 	  
     diff_match_patch<wstring> dmp; 
